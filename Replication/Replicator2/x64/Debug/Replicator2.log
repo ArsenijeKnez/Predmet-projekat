@@ -1,0 +1,5 @@
+﻿  Replicator2.cpp
+C:\Users\milen\Desktop\Predmet projekat\Replication\Replicator2\Replicator2.cpp(336,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\milen\Desktop\Predmet projekat\Replication\Replicator2\Replicator2.cpp(410,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\milen\Desktop\Predmet projekat\Replication\Replicator2\Replicator2.cpp(443,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Replicator2.vcxproj -> C:\Users\milen\Desktop\Predmet projekat\Replication\x64\Debug\Replicator2.exe
